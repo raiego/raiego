@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&width=500&lines=Full+Stack+Developer;React+%7C+Angular+%7C+TypeScript;Node.js+%7C+Python;Building+scalable+web+applications" />
 </p>
 
-💻 Full Stack Developer  
+💻 Early-career Full Stack Developer focused on building real-world applications 
 🌍 Focused on international opportunities  
 ⚡ Building modern web applications with JavaScript, React & Python
 
@@ -12,6 +12,7 @@
 
 ## 🚀 About Me
 
+- 🎓 Currently pursuing a postgraduate degree in Full Stack Development, focused on modern web technologies
 - 🔭 Building projects focused on **real-world applications**
 - 🌱 Improving skills in **TypeScript, React and Angular**
 - ⚙️ Back-end development with **Node.js and Python**
