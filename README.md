@@ -32,7 +32,9 @@
 
 ## Featured Projects
 
-Currently building my portfolio — projects coming soon  
+Currently building my portfolio — projects coming soon 
+
+Browse all repositories [here](https://github.com/raiego?tab=repositories)
 
 ---
 
