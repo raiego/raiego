@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Hi, I'm Guilherme Torette
 
 <p align="left">
@@ -32,9 +34,11 @@
 
 ## Featured Projects
 
-Currently building my portfolio — projects coming soon 
+Currently building and refining my portfolio with real-world projects.
 
-Browse all repositories [here](https://github.com/raiego?tab=repositories)
+You can explore all my repositories [here](https://github.com/raiego?tab=repositories)
+
+Highlighted projects are available in the pinned section below.
 
 ---
 
@@ -49,4 +53,8 @@ Browse all repositories [here](https://github.com/raiego?tab=repositories)
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/guiitorette/  
-- Email: guiitorette@gmail.com  
+- Email: guiitorette@gmail.com
+
+<p align="right">
+  <a href="#top">⬆ Back to top</a>
+</p>
