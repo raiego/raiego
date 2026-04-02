@@ -44,10 +44,9 @@ Highlighted projects are available in the pinned section below.
 
 ## GitHub Stats
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=raiego&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=raiego&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiego&layout=compact&theme=radical)
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raiego&theme=github_dark)
 ---
 
 ## Contact
@@ -56,5 +55,5 @@ Highlighted projects are available in the pinned section below.
 - Email: guiitorette@gmail.com
 
 <p align="right">
-  <a href="#top">⬆ Back to top</a>
+ <a href="#top">↑ Back to top</a>
 </p>
