@@ -42,6 +42,14 @@ Highlighted projects are available in the pinned section below.
 
 ---
 
+## Education & Certifications
+
+- Full certificate (Alura – 12 months of study, multiple courses completed):  
+  https://cursos.alura.com.br/user/guiitorette/fullCertificate/bbffc2e892403cbcc3f4dac572bffb4c
+
+- English Courses (AluraLinguas):                        
+  https://cursos.aluralingua.com.br/user/guiitorette/fullCertificate/39aae04c43139840ab2f4f1e1c2c6424
+
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=raiego&theme=radical)
